@@ -42,7 +42,7 @@ h1 {
   color: var(--gray-100);
   font-family: "Big Shoulders", "Lexend Deca", sans-serif;
   font-size: 2.5rem;
-  font-weight: bold;
+  font-weight: 500;
   margin-bottom: 1.5rem;
 }
 
