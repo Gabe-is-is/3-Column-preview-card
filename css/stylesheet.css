@@ -135,8 +135,13 @@ button:hover {
     border-radius: 0 0.5rem 0.5rem 0;
   }
 
-  .content {
-    max-width: 12.5rem;
+  .h2-first {
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .h2-second {
+    max-width: 205px;
     width: 100%;
   }
 
