@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --gray-100: #f2f2f2;
+  --green-950: #004140;
+  --green-500: #19b89d;
+  --cyan-800: #006971;
+  --cyan-500: #26b5c0;
+  --gold-500: #e28625;
+  --gold-200: #ffd373;
+}
